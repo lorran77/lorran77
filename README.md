@@ -1,16 +1,25 @@
-### VAi Corinthians!!!
+### _**Seja bem vindo**_:angel::japanese_ogre:
+<p>
+ * Cursando uma qualificação profissional na Ford Enter  
 
-<!--
-**lorran77/lorran77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/127353307/223878413-7bc60a8c-b971-43b9-af84-43aeee49f0eb.svg)

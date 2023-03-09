@@ -1,6 +1,13 @@
-### _**Seja bem vindo**_:angel::japanese_ogre:
-<p>
- * Cursando uma qualificação profissional na Ford Enter  
+ ### _**Seja bem vindo.**_:angel::japanese_ogre:
+
+18 anos e residente de São Paulo.
+
+* Cursando programação FRONT-END na Ford Academy
+
+* Conhecimento em Adobe Photoshop e Illustrator
+
+* Gosto de fotografia e cinema
+
 
 
 
